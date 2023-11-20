@@ -8,7 +8,11 @@ sites:
   - name: DitchCarbon Docs
     url: https://docs.ditchcarbon.com/
   - name: DitchCarbon API
-    url: https://api.ditchcarbon.com/
+    url: https://api.ditchcarbon.com/industries
+    headers:
+      - "Authorization: Bearer $DC_API_KEY"
+      - "Content-Type: application/json"
+
 assignees:
   davelush-dc
 #  penguoir
