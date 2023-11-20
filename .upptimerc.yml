@@ -5,16 +5,24 @@ repo: upptime-monitoring # The name of this repository
 sites:
   - name: DitchCarbon
     url: https://ditchcarbon.com/
+  - name: DitchCarbon Docs
+    url: https://docs.ditchcarbon.com/
+  - name: DitchCarbon API
+    url: https://api.ditchcarbon.com/
+assignees:
+  davelush-dc
+#  penguoir
+#  CharlieGroves
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 #  cname: demo.upptime.js.org
   baseUrl: /upptime-monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://files.readme.io/d3ad520-small-Logo_branding_kit_Favicon_Square_1.png
+  name: DitchCarbon Status
+  introTitle: "**DitchCarbon** status and uptime."
+  introMessage: This page shows the status of all of our services at DitchCarbon. We will also share details of any live incidents and resolutions as they occur.
   navbar:
     - title: Status
       href: /
