@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 569,
-    "timeDay": 569,
+    "timeDay": 603,
     "timeWeek": 569,
     "timeMonth": 569,
     "timeYear": 569,
@@ -23,36 +23,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.ditchcarbon.com.ico",
     "slug": "ditch-carbon-docs",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 342,
     "timeDay": 342,
     "timeWeek": 342,
     "timeMonth": 342,
     "timeYear": 342,
-    "dailyMinutesDown": {
-      "2023-11-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DitchCarbon API",
     "url": "https://api.ditchcarbon.com/industries",
     "icon": "https://icons.duckduckgo.com/ip3/api.ditchcarbon.com.ico",
     "slug": "ditch-carbon-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 527,
     "timeDay": 527,
     "timeWeek": 527,
     "timeMonth": 527,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-21": 0
+    }
   }
 ]
