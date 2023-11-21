@@ -40,19 +40,19 @@
     "url": "https://api.ditchcarbon.com/industries",
     "icon": "https://icons.duckduckgo.com/ip3/api.ditchcarbon.com.ico",
     "slug": "ditch-carbon-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 527,
-    "timeDay": 527,
-    "timeWeek": 527,
-    "timeMonth": 527,
-    "timeYear": 527,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 516,
+    "timeDay": 516,
+    "timeWeek": 516,
+    "timeMonth": 516,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2023-11-21": 0
+      "2023-11-21": 8
     }
   }
 ]
