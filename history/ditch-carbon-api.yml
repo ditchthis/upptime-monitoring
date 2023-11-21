@@ -1,7 +1,7 @@
 url: https://api.ditchcarbon.com/industries
-status: up
-code: 200
-responseTime: 407
-lastUpdated: 2023-11-20T23:01:02.287Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-11-21T16:08:55.728Z
 startTime: 2023-11-20T17:07:49.371Z
 generator: Upptime <https://github.com/upptime/upptime>
