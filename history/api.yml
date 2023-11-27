@@ -1,7 +1,7 @@
-url: https://api.ditchcarbon.com/industries
-status: up
+url: https://api.ditchcarbon.com/organizations/227765
+status: degraded
 code: 200
-responseTime: 445
-lastUpdated: 2023-11-26T23:00:54.020Z
+responseTime: 2646
+lastUpdated: 2023-11-27T11:49:37.761Z
 startTime: 2023-11-21T22:07:54.971Z
 generator: Upptime <https://github.com/upptime/upptime>
