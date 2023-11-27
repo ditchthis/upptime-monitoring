@@ -10,7 +10,8 @@ sites:
   - name: API Docs
     url: https://docs.ditchcarbon.com/
   - name: API
-    url: https://api.ditchcarbon.com/industries
+    url: https://api.ditchcarbon.com/organizations/227765
+    __dangerous__body_degraded_if_text_missing: 'this is a test'
     headers:
       - "Authorization: Bearer $DC_API_KEY"
       - "Content-Type: application/json"
