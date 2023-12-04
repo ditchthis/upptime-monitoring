@@ -1,7 +1,7 @@
 url: https://api.ditchcarbon.com/organizations/227765
 status: degraded
-code: 503
-responseTime: 326
-lastUpdated: 2023-12-03T23:00:57.172Z
+code: 200
+responseTime: 2102
+lastUpdated: 2023-12-04T23:00:59.956Z
 startTime: 2023-11-21T22:07:54.971Z
 generator: Upptime <https://github.com/upptime/upptime>
