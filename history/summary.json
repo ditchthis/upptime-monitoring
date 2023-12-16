@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 478,
-    "timeWeek": 609,
-    "timeMonth": 564,
-    "timeYear": 564,
+    "time": 559,
+    "timeDay": 407,
+    "timeWeek": 602,
+    "timeMonth": 559,
+    "timeYear": 559,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 548,
-    "timeWeek": 548,
-    "timeMonth": 707,
-    "timeYear": 707,
+    "time": 704,
+    "timeDay": 623,
+    "timeWeek": 562,
+    "timeMonth": 704,
+    "timeYear": 704,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.ditchcarbon.com.ico",
     "slug": "api-docs",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 687,
-    "timeDay": 399,
-    "timeWeek": 421,
-    "timeMonth": 687,
-    "timeYear": 687,
-    "dailyMinutesDown": {
-      "2023-12-15": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 683,
+    "timeDay": 345,
+    "timeWeek": 434,
+    "timeMonth": 683,
+    "timeYear": 683,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2686,
-    "timeDay": 5221,
-    "timeWeek": 5102,
-    "timeMonth": 2686,
-    "timeYear": 2686,
+    "time": 2741,
+    "timeDay": 4226,
+    "timeWeek": 4892,
+    "timeMonth": 2741,
+    "timeYear": 2741,
     "dailyMinutesDown": {}
   }
 ]
