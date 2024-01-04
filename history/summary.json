@@ -4,9 +4,9 @@
     "url": "https://ditchcarbon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ditchcarbon.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 496,
     "timeMonth": 534,
     "timeYear": 542,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-04": 0
+    }
   },
   {
     "name": "Client Portal",
@@ -47,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 614,
-    "timeDay": 446,
+    "timeDay": 464,
     "timeWeek": 519,
     "timeMonth": 481,
     "timeYear": 614,
