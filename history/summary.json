@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ditchcarbon.com.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 681,
-    "timeDay": 673,
-    "timeWeek": 1312,
+    "uptimeYear": "99.98%",
+    "time": 680,
+    "timeDay": 647,
+    "timeWeek": 1342,
     "timeMonth": 753,
-    "timeYear": 681,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2024-01-04": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 413,
-    "timeWeek": 559,
-    "timeMonth": 527,
-    "timeYear": 624,
+    "time": 711,
+    "timeDay": 4997,
+    "timeWeek": 1198,
+    "timeMonth": 672,
+    "timeYear": 711,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 611,
-    "timeDay": 457,
-    "timeWeek": 535,
+    "time": 608,
+    "timeDay": 389,
+    "timeWeek": 514,
     "timeMonth": 484,
-    "timeYear": 611,
+    "timeYear": 608,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3880,
-    "timeDay": 5805,
-    "timeWeek": 5297,
-    "timeMonth": 5281,
-    "timeYear": 3880,
+    "time": 3926,
+    "timeDay": 6172,
+    "timeWeek": 5457,
+    "timeMonth": 5284,
+    "timeYear": 3926,
     "dailyMinutesDown": {}
   }
 ]
