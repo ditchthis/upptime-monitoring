@@ -24,9 +24,9 @@
     "url": "https://portal.ditchcarbon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.ditchcarbon.com.ico",
     "slug": "client-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 1147,
     "timeMonth": 669,
     "timeYear": 706,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-08": 0
+    }
   },
   {
     "name": "API Docs",
