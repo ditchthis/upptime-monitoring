@@ -44,18 +44,16 @@
     "slug": "api-docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 696,
     "timeDay": 7858,
     "timeWeek": 1607,
     "timeMonth": 792,
     "timeYear": 696,
-    "dailyMinutesDown": {
-      "2024-01-26": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
