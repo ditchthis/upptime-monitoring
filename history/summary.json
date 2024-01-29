@@ -4,11 +4,11 @@
     "url": "https://ditchcarbon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/ditchcarbon.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 616,
     "timeDay": 417,
@@ -16,7 +16,7 @@
     "timeMonth": 694,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2024-01-29": 6,
+      "2024-01-29": 0,
       "2024-01-04": 17
     }
   },
