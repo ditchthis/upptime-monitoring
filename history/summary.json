@@ -34,7 +34,7 @@
     "time": 653,
     "timeDay": 476,
     "timeWeek": 620,
-    "timeMonth": 567,
+    "timeMonth": 565,
     "timeYear": 653,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,20 @@
     "url": "https://docs.ditchcarbon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.ditchcarbon.com.ico",
     "slug": "api-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 174,
-    "timeWeek": 479,
-    "timeMonth": 774,
-    "timeYear": 666,
-    "dailyMinutesDown": {}
+    "time": 660,
+    "timeDay": 142,
+    "timeWeek": 433,
+    "timeMonth": 756,
+    "timeYear": 660,
+    "dailyMinutesDown": {
+      "2024-02-08": 0
+    }
   },
   {
     "name": "API",
