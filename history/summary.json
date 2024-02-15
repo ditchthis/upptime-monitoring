@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 650,
-    "timeDay": 402,
-    "timeWeek": 503,
+    "time": 648,
+    "timeDay": 439,
+    "timeWeek": 506,
     "timeMonth": 644,
-    "timeYear": 650,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2024-01-29": 34,
       "2024-01-04": 17
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 646,
-    "timeDay": 472,
-    "timeWeek": 548,
-    "timeMonth": 555,
-    "timeYear": 646,
+    "time": 645,
+    "timeDay": 503,
+    "timeWeek": 552,
+    "timeMonth": 550,
+    "timeYear": 645,
     "dailyMinutesDown": {}
   },
   {
@@ -45,18 +45,16 @@
     "slug": "api-docs",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 169,
-    "timeWeek": 195,
-    "timeMonth": 581,
-    "timeYear": 609,
-    "dailyMinutesDown": {
-      "2024-02-14": 5
-    }
+    "time": 606,
+    "timeDay": 178,
+    "timeWeek": 199,
+    "timeMonth": 571,
+    "timeYear": 606,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3996,
-    "timeDay": 1313,
-    "timeWeek": 1435,
-    "timeMonth": 3695,
-    "timeYear": 3996,
+    "time": 3966,
+    "timeDay": 1314,
+    "timeWeek": 1428,
+    "timeMonth": 3553,
+    "timeYear": 3966,
     "dailyMinutesDown": {}
   }
 ]
