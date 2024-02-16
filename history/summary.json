@@ -43,18 +43,20 @@
     "url": "https://docs.ditchcarbon.com/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.ditchcarbon.com.ico",
     "slug": "api-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 686,
-    "timeWeek": 249,
-    "timeMonth": 575,
-    "timeYear": 607,
-    "dailyMinutesDown": {}
+    "time": 603,
+    "timeDay": 426,
+    "timeWeek": 252,
+    "timeMonth": 565,
+    "timeYear": 603,
+    "dailyMinutesDown": {
+      "2024-02-16": 0
+    }
   },
   {
     "name": "API",
